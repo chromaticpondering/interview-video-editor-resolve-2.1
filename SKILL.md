@@ -1,4 +1,7 @@
 ---
+slug: interview-video-editor-resolve
+status: published
+visibility: public
 name: interview-video-editor-resolve
 description: End-to-end editing of interview and testimonial footage natively inside DaVinci Resolve using the DaVinci Resolve MCP server (v2.1). Use when the user supplies raw talking-head or interview footage and wants DaVinci Resolve to perform the entire edit—ingest, bin organization, autonomous transcription (with explicit handling for non-English languages), removing fluff/back takes/mistakes/dead air/pre-roll instructions, an interactive SRT review checkpoint (diffing user SRT edits and rebuilding the Resolve timeline), 100% native editable DaVinci Resolve Text/Text+ word-by-word captions (never transparent MOV/PNG overlays), behind-the-speaker focus words, lower-thirds, transitions, Fairlight audio mix, Color page grading, and native Resolve rendering. Highly token-optimized by offloading timeline and title generation to fast local Resolve scripts.
 ---
